@@ -6,7 +6,7 @@
 ## 🛠️ 使える技術
 
 - **バックエンド**: PHP / Laravel
-- **フロントエンド**: HTML5 / CSS / Blade
+- **フロントエンド**: HTML5 / CSS / Blade / JavaScript
 - **データベース**: MySQL
 - **その他**: Docker / Git・GitHub
 
@@ -16,7 +16,8 @@
 仕様に関する指示があり、提供されたビューを使用しています。
 - [bookshelf-app](https://github.com/en6113/bookshelf-app) — 書籍レビューアプリ（Laravel + Sanctum + REST API + 通知機能 + 外部API連携）
 - [contact-form](https://github.com/en6113/contact-form) — 問い合わせ管理ツール（Laravel + REST API）
-- [task-manager](https://github.com/en6113/task-manager) — タスク管理アプリ（Laravel + REST API） ※提供されたビューを元にビューを編集
+- [task-manager](https://github.com/en6113/task-manager) — タスク管理アプリ（Laravel + REST API）
+
 
 学びを深めるために自分で作成したリポジトリです。
 - [stock-manager](https://github.com/en6113/stock-manager) — 在庫管理アプリ（Laravel）
